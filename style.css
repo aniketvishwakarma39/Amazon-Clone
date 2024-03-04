@@ -1,0 +1,191 @@
+* {
+    margin: 0;
+    padding: 0;
+    border:border-box;
+    font-family:arial;
+}
+.navbar{
+    height:60px;
+    background-color: #0f1111;
+    color:white;
+    display:flex;
+    align-items:center;
+    justify-content: space-evenly;
+}
+
+.navlogo{
+    height:55px;
+    width:100px;
+}
+
+.logo{ background-image: url("WhatsApp\ Image\ 2024-03-02\ at\ 23.06.01_66ef3b27.jpg");
+    height:55px;
+    width:100%;
+    background-size: cover;
+}
+
+.border{
+    border:2px solid transparent;
+}
+.border:hover{
+    border: 2px solid white;
+}
+
+.first{
+    color:#cccccc;
+    font-size:.85rem;
+    margin-left:15px;
+}
+
+.sec{
+    font-size:1rem;
+    margin-left:3px;
+}
+
+.icon{
+    display:flex;
+    text-align:center;
+    
+}
+.search{
+    display:flex;
+    background-color:#febd68;
+    width:625px;
+    height:40px;
+    border-radius:4px;
+    justify-content:space-evenly;
+}
+
+.hello{
+    background-color:#f3f3f3;
+    width:50px;
+     text-align:center;
+     border-top-left-radius: 4px;
+     border-bottom-left-radius:4px;
+     border:none;
+}
+.hiii{
+    width:100%;
+    font-size:1rem;
+    border:none;
+}
+.sicon{
+    width:45px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:1.2rem;
+    border-top-right-radius: 4px;
+     border-bottom-right-radius:4px;
+     color:black;
+
+}
+
+span{
+    font-size:0.7rem;
+}
+
+.log{
+    font-size:.85rem;
+    font-weight: 700;
+}
+
+.cart i{
+    font-size: 35px;
+}
+
+.cart{
+    font-size:.85rem;
+    font-weight:700;
+}
+.panel{
+    height:40px;
+    background-color:#222f3d;
+    display:flex;
+    color:white;
+    
+    text-align:center ;
+
+    
+}
+.allpanel {
+    display:flex;
+    color:white;
+    text-align:center;
+    margin-top:10px;
+    margin-left: 15px;
+    font-size:.85rem;
+
+
+}
+.allpanel p {
+    margin-left:15px;
+    font-size:.85rem;
+}
+.deals{
+    margin-top:10px;
+    margin-left:500px;
+    font-size:.9rem;
+    font-weight: 700;
+
+}
+
+.hero{
+    background-image:url("hero_image.jpg");
+    background-size:cover;
+    height:300px;
+    display:flex;
+    justify-content:center;
+    align-items:flex-end;
+}
+.msgbox{
+    background-color:white;
+    color:black;
+    align-items:center;
+    justify-content:center;
+    font-size:.85rem;
+    width:90%;
+    margin-bottom:25px;
+    text-align:center;
+    height:40px;
+    display:flex;
+}
+.msgbox a {
+    text-decoration:none;
+    color:teal;
+
+}
+.box{ 
+     height:300px;
+     width:23%;
+     background-color:white; 
+     margin-top:10px;
+}
+.shop{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    background-color: #e2e6e2;
+    
+}
+
+.image1{
+    
+    height:225px;
+    background-size:cover;
+    width:250px;
+    margin-left:13px;
+    margin-top:10px;
+}
+h3{
+    margin-left:13px;
+    margin-top:5px;
+
+}
+.new{
+    color:blue;
+    margin-left:13px;
+    margin-top:10px;
+    
+
+}
